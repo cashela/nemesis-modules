@@ -1,6 +1,6 @@
 <?php
 
-namespace Nemesis\Modules\Providers;
+namespace Cashela\Modules\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

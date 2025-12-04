@@ -1,6 +1,6 @@
 <?php
 
-namespace Nemesis\Modules\Providers\Models;
+namespace Cashela\Modules\Providers\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Concerns\HasUuids;
