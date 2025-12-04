@@ -1,10 +1,10 @@
 {
-  "name": "nemesis/modules",
+  "name": "cashela/modules",
   "description": "Shared domain modules for the Nemesis Cash microservices architecture (Providers, PayoutDomain, OneShopDomain, etc.)",
   "type": "library",
   "license": "MIT",
   "keywords": [
-    "nemesis",
+    "cashela",
     "microservices",
     "modules",
     "shared-kernel",
@@ -19,7 +19,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Nemesis\\Modules\\": "src/"
+      "Cashela\\Modules\\": "src/"
     }
   },
   "require": {
